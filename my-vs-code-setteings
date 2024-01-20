@@ -1,0 +1,64 @@
+{
+  "workbench.colorTheme": "Night Owl (No Italics)",
+  "workbench.iconTheme": "material-icon-theme",
+  "files.autoSave": "afterDelay",
+  "editor.fontSize": 15,
+  "editor.cursorBlinking": "smooth",
+  "editor.cursorStyle": "block",
+  "auto-close-tag.fullMode": true,
+  "blade.format.enable": true,
+
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[blade]": {
+    "editor.defaultFormatter": "onecentlin.laravel-blade"
+  },
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "git.autofetch": true,
+  "tailwindCSS.emmetCompletions": true,
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.jsx": "javascriptreact"
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  },
+  "tailwindCSS.includeLanguages": {
+    "plaintext": "html"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[html]": {
+    "editor.defaultFormatter": "vscode.html-language-features"
+  },
+  "editor.formatOnSave": true,
+  "prettier.bracketSpacing": true,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "namespaceResolver.highlightOnSave": false,
+  "settingsSync.ignoredExtensions": [],
+  "settingsSync.ignoredSettings": [],
+  "explorer.openEditors.visible": 0,
+  "editor.tabCompletion": "on",
+  "git.enableSmartCommit": true,
+  "window.openFilesInNewWindow": "on",
+  "workbench.settings.editor": "json",
+  "workbench.settings.useSplitJSON": true,
+  "emmet.triggerExpansionOnTab": true,
+  "emmet.optimizeStylesheetParsing": false,
+  "emmet.includeLanguages": {
+    "javascript": "javascriptreact"
+  },
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "git.openRepositoryInParentFolders": "never",
+  "workbench.activityBar.location": "hidden",
+  "vite.port": 3030,
+  "editor.columnSelection": true
+}
+
