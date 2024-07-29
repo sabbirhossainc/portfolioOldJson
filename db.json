@@ -1,0 +1,21 @@
+{
+  "marquee":[
+    {
+    "heading": "Our marquee",
+    "images": [
+      {
+        "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/hcpc-logo-new_ofgt6j"
+      },
+      {
+        "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/physios-in-sport-logo-web_f3bouu"
+      },
+      {
+        "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/Physio-First-Logo-Blue-300x281_n7odkq"
+      },
+      {
+        "url": "https://res.cloudinary.com/dci00bjtd/image/upload/f_auto,q_auto/new_logo_300_yivhtf"
+      }
+    ]
+  }
+  ]
+}
