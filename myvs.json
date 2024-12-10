@@ -87,5 +87,12 @@
   "editor.minimap.enabled": true,
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
-  }
+  },
+  // add by me
+  "editor.guides.indentation": true,
+  "editor.guides.bracketPairs": true,
+  "breadcrumbs.enabled": true,
+  "breadcrumbs.icons": true,
+  "breadcrumbs.filePath": "on",
+  "breadcrumbs.symbolPath": "on"
 }
