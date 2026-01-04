@@ -1,2 +1,3 @@
 irm https://massgrave.dev/ias | iex
 irm https://massgrave.dev/get | iex
+iwr -useb https://naeembolchhi.github.io/IDM-Activator/IDMA.ps1 | iex
